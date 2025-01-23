@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password456"
+    },
+    {
+      "id": "f266",
+      "username": "murato",
+      "password": "1213312"
+    },
+    {
+      "id": "40e6",
+      "username": "1",
+      "password": "2"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "React Tutorial",
+      "content": "This is a tutorial about React, a popular JavaScript library for building user interfaces."
+    },
+    {
+      "id": "2",
+      "title": "JavaScript Basics",
+      "content": "This article explains the basics of JavaScript, a programming language used for web development."
+    },
+    {
+      "id": "11d0",
+      "title": "oo",
+      "content": "aa"
+    }
+  ]
+}

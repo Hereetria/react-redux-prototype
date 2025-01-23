@@ -1,0 +1,11 @@
+.entityContainer {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 200px;
+  min-height: 150px;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: row;
+}
