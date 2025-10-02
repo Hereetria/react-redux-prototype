@@ -1,4 +1,4 @@
-# 🔄 React Redux Prototype — State Management Practice • (Archived)
+# 🔄 React Redux Prototype — State Management Prototype • (Archived)
 
 <br>
 
